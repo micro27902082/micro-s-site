@@ -1,5 +1,10 @@
 @charset "utf-8";
 
+/* すべての要素に対して box-sizing: border-box; を指定*/
+*{
+  box-sizing:border-box;
+}
+
 body {
   font-family: "Hiragino Kaku Gothic ProN", "メイリオ", sans-serif;
   margin:0;
