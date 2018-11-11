@@ -13,11 +13,7 @@ body {
 
 main{
   width: 1200px;
-
-}
-
-#Top{
-  text-align: center;
+  margin: 0;
 }
 
 header {
